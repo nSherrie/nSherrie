@@ -1,16 +1,20 @@
-## Hi there 👋
+ ## 🍁Sherrie Nicole  
+📌**UI Designer & Developer**  
+🎓 Computer Science Degree Holder | 👨‍💻 Full-Stack Learner | 🎨 UI Enthusiast
 
-<!--
-**nSherrie/nSherrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+###  🍁About Me
 
-Here are some ideas to get you started:
+👋🏻Hello! I'm **Sherrie Nicole**, exploring **UI design** and **web development**.  
+📕 Strong foundation in **modern frameworks**.  
+📕 Currently mastering **React, Next.js, Tailwind CSS**, and **Cloudinary**.  
+📕 Creating sleek, accessible, and user-friendly interfaces with a strong design eye.  
+📕 Continuously learning new tools in the React and serverless ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📜 Certifications
+### 🎨[Website with Mailchip (PDF)](https://github.com/nSherrie/Riri/blob/main/certs/Website_with_mailchip.pdf)
+
+---
+
+
