@@ -12,8 +12,8 @@
 📚 Continuously learning new tools in the **React** and **serverless ecosystem**.
 
 ---
-## 📜 Certifications
-### 🎨[Website with Mailchip (PDF)](https://github.com/nSherrie/Riri/blob/main/certs/Website_with_mailchip.pdf)
+### 📜 Certifications
+#### 🎨[Build Wireframes and Low Fidelity Prototypes (PDF)](https://github.com/nSherrie/Riri/blob/main/cert/Build_Wireframes_and_low_fidelity_prototypes.pdf)
 
 ---
 
