@@ -13,7 +13,7 @@
 
 ---
 ### 📜 Certifications
-#### 🎨[Build Wireframes and Low Fidelity Prototypes (PDF)](https://github.com/nSherrie/Riri/blob/main/cert/Build_Wireframes_and_low_fidelity_prototypes.pdf)
+#### 🎨[Build Wireframes and Low Fidelity Prototypes (PDF)](https://github.com/nSherrie/nSherrie/blob/main/cert/Build_Wireframes_and_low_fidelity_prototypes.pdf)
 
 ---
 
