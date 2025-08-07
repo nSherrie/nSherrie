@@ -77,8 +77,10 @@
 
 ### 💖 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![Instagram](https://img.shields.io/badge/Instagram-%23A78BFA?style=for-the-badge&logo=instagram&logoColor=white)]
+## 💕 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ririsher)  
+ 
 
 ---
 💖🪷🍁🧠🦄🦩🪼🦑🧶📚🪭💌
