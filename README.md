@@ -59,7 +59,7 @@
 [![Apache](https://img.shields.io/badge/Apache-ffc8dd?style=for-the-badge&logo=apache&logoColor=black)](https://httpd.apache.org)  
 
 ---
-### 🪭 **Programming Languages**
+#### 🪭 **Programming Languages**
 [![JavaScript](https://img.shields.io/badge/JavaScript-ffb5a7?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
 [![Java](https://img.shields.io/badge/Java-ffc8dd?style=for-the-badge&logo=java&logoColor=black)](https://www.java.com)
 [![Python](https://img.shields.io/badge/Python-d8e2dc?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org)
@@ -67,7 +67,7 @@
 
 ---
 
-### 🪭 **Design Tools & Services**
+#### 🪭 **Design Tools & Services**
 [![Figma](https://img.shields.io/badge/Figma-ffc8dd?style=for-the-badge&logo=figma&logoColor=black)](https://www.figma.com)
 [![Canva](https://img.shields.io/badge/Canva-a0c4ff?style=for-the-badge&logo=canva&logoColor=black)](https://www.canva.com)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-b5ead7?style=for-the-badge&logo=cloudinary&logoColor=black)](https://cloudinary.com)  
@@ -75,7 +75,7 @@
 ---
 
 
-## 💕 Let's Connect
+### 💖 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibl)
 [![Instagram](https://img.shields.io/badge/Instagram-%23A78BFA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shibl)
