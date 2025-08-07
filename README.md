@@ -77,8 +77,8 @@
 
 ### 💖 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shibl)
-[![Instagram](https://img.shields.io/badge/Instagram-%23A78BFA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shibl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23F9A8D4?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Instagram](https://img.shields.io/badge/Instagram-%23A78BFA?style=for-the-badge&logo=instagram&logoColor=white)]
 
 ---
 💖🪷🍁🧠🦄🦩🪼🦑🧶📚🪭💌
